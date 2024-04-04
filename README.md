@@ -21,7 +21,7 @@
 
 
 
-Projeto em desenvolvimento por: Bárbara, Leonardo, Laura e Carlos
+Projeto em desenvolvimento por: Bárbara, Leonardo Costa, Laura e Carlos
 
 
 
