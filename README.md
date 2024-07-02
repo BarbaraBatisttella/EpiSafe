@@ -1,10 +1,11 @@
-# <p align="center"> <strong>   Episafe  🧬 </strong> </p>
+# <p align="center"> <strong> Episafe 🧬 </strong> </p>
 
 <p align="center"> <strong> Sistema para Gerenciamento de Epidemias e Pandemias </strong> </center> </p>
 
 #
 
-### 🚀 Começando 
+### 🚀 Começando
+
 <p align="justify">
 &nbsp&nbsp&nbsp&nbsp
 O Episafe é um banco de dados dedicado à vigilância e monitoramento da dengue. Ele é projetado para coletar, armazenar e analisar dados epidemiológicos relacionados à doença, fornecendo informações valiosas para pesquisadores, profissionais de saúde pública e autoridades governamentais.
@@ -13,16 +14,17 @@ O Episafe é um banco de dados dedicado à vigilância e monitoramento da dengue
 #
 
 ### 🔎 Um pouco do que você encontrará por aqui:
+
 - Scripts da estrtura de um Banco de Dados completo em PostgreSQL
 - Modelo Conceitual
 - Brainstorming no Whismsical
-
 
 #
 
 ### 📦 Estrutura de Pastas
 
 - 📁 Banco de Dados
+
   - 📁 Modelo Relacional (Modelo Relacional e Dicionário de Dados)
   - 📁 Scripts (Todos os Scripts da estrutura do Banco de Dados)
 
@@ -30,9 +32,7 @@ O Episafe é um banco de dados dedicado à vigilância e monitoramento da dengue
 
 - 📁 Trabalho Escrito
   - 📄 EpiSafe(Documentação e descrição do processo de desenvolvimento do trabalho)
-  
 - 📄 Apresentação (Slides para a apresentação do Trabalho)
-   
 - 📄 README (Este arquivo que você está obervando agora mesmo)
 
 #
@@ -41,8 +41,6 @@ O Episafe é um banco de dados dedicado à vigilância e monitoramento da dengue
 
 - Visual Paradigm
 - PostgreSQL
-- DataGrip
-
 
 #
 
@@ -54,7 +52,7 @@ Desenvolvedores do Projeto:
   <tr>
     <td align="center">
       <a href="#">
-        <img src="https://github.com/laura7az" width="100px;" alt="Laura"/><br>
+        <img src="https://avatars.githubusercontent.com/u/99025285?v=4" width="100px;" alt="Laura"/><br>
         <sub>
           <b>Laura Zardo</b>
         </sub>
@@ -62,7 +60,7 @@ Desenvolvedores do Projeto:
     </td>
     <td align="center">
       <a href="#">
-        <img src="https://github.com/leo-agostini" width="100px;" alt="Leonardp Costa"/><br>
+        <img src="https://avatars.githubusercontent.com/u/62349597?v=4" width="100px;" alt="Leonardo Costa"/><br>
         <sub>
           <b>Leonardo Costa</b>
         </sub>
@@ -70,7 +68,7 @@ Desenvolvedores do Projeto:
     </td>
     <td align="center">
       <a href="#">
-        <img src="https://github.com/BarbaraBatisttella" width="100px;" alt="Bárbara Batisttellla"/><br>
+        <img src="https://avatars.githubusercontent.com/u/98975638?v=4" width="100px;" alt="Bárbara Batisttellla"/><br>
         <sub>
           <b>Bárbara Batisttella</b>
         </sub>
