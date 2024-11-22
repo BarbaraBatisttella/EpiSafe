@@ -24,22 +24,6 @@ O Episafe é um banco de dados dedicado à vigilância e monitoramento da dengue
 
 #
 
-### 📦 Estrutura de Pastas
-
-- 📁 Banco de Dados
-
-  - 📁 Modelo Relacional (Modelo Relacional e Dicionário de Dados)
-  - 📁 Scripts (Todos os Scripts da estrutura do Banco de Dados)
-
-- 📁 Diagramas (Diagramas do Sistema)
-
-- 📁 Trabalho Escrito
-  - 📄 EpiSafe(Documentação e descrição do processo de desenvolvimento do trabalho)
-- 📄 Apresentação (Slides para a apresentação do Trabalho)
-- 📄 README (Este arquivo que você está obervando agora mesmo)
-
-#
-
 ### 🛠️ Ferramentas e Tecnologias Utilizadas
 
 - Visual Paradigm
