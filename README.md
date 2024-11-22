@@ -74,6 +74,22 @@ Desenvolvedores do Projeto:
         </sub>
       </a>
     </td>
+  <td align="center">
+      <a href="#">
+        <img src="https://avatars.githubusercontent.com/u/165969703?v=4" width="100px;" alt="Iraê Gruber"/><br>
+        <sub>
+          <b>Iraê Gruber</b>
+        </sub>
+      </a>
+    </td>
+  <td align="center">
+      <a href="#">
+        <img src="https://avatars.githubusercontent.com/u/165967253?v=4" width="100px;" alt="Jefferson Ludwig"/><br>
+        <sub>
+          <b>Jefferson Ludwig</b>
+        </sub>
+      </a>
+    </td>
   </tr>
 </table>
 
