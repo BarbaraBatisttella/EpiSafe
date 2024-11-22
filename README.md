@@ -15,9 +15,12 @@ O Episafe é um banco de dados dedicado à vigilância e monitoramento da dengue
 
 ### 🔎 Um pouco do que você encontrará por aqui:
 
+- Scripts da plataforma
 - Scripts da estrtura de um Banco de Dados completo em PostgreSQL
 - Modelo Conceitual
 - Brainstorming no Whismsical
+- Apresentação do projeto
+- Artigo do projeto
 
 #
 
@@ -41,6 +44,8 @@ O Episafe é um banco de dados dedicado à vigilância e monitoramento da dengue
 
 - Visual Paradigm
 - PostgreSQL
+- Visual Studio Code
+- Postman
 
 #
 
