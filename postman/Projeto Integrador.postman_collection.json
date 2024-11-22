@@ -1,0 +1,150 @@
+{
+	"info": {
+		"_postman_id": "535accfb-ee7b-4c67-bcde-5f7fb72edf0c",
+		"name": "Projeto Integrador",
+		"schema": "https://schema.getpostman.com/json/collection/v2.0.0/collection.json",
+		"_exporter_id": "34750925"
+	},
+	"item": [
+		{
+			"name": "Usuario",
+			"item": [
+				{
+					"name": "List",
+					"request": {
+						"method": "GET",
+						"header": []
+					},
+					"response": []
+				},
+				{
+					"name": "Create",
+					"request": {
+						"method": "POST",
+						"header": [],
+						"url": "{{api}}/api/usuario"
+					},
+					"response": []
+				},
+				{
+					"name": "By Id",
+					"request": {
+						"method": "GET",
+						"header": []
+					},
+					"response": []
+				},
+				{
+					"name": "update",
+					"request": {
+						"method": "GET",
+						"header": []
+					},
+					"response": []
+				},
+				{
+					"name": "delete",
+					"request": {
+						"method": "GET",
+						"header": []
+					},
+					"response": []
+				}
+			]
+		},
+		{
+			"name": "Visita",
+			"item": [
+				{
+					"name": "List",
+					"request": {
+						"method": "GET",
+						"header": []
+					},
+					"response": []
+				},
+				{
+					"name": "Create",
+					"request": {
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\r\n    \"residencia\": 1,\r\n    \"agente\": 1,\r\n    \"ciclo\": 1,\r\n    \"descricao\": \"Visita de verificação\",\r\n    \"dataVisita\": \"2024-01-05\"\r\n}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": "{{api}}/api/visitas"
+					},
+					"response": []
+				},
+				{
+					"name": "By Id",
+					"request": {
+						"method": "GET",
+						"header": []
+					},
+					"response": []
+				},
+				{
+					"name": "update",
+					"request": {
+						"method": "GET",
+						"header": []
+					},
+					"response": []
+				},
+				{
+					"name": "delete",
+					"request": {
+						"method": "GET",
+						"header": []
+					},
+					"response": []
+				}
+			]
+		},
+		{
+			"name": "Reports",
+			"item": [
+				{
+					"name": "Mulheres de 20 e 30 anos que tiveram dengue",
+					"request": {
+						"method": "GET",
+						"header": []
+					},
+					"response": []
+				},
+				{
+					"name": "Meses ímpares de 2023 de clientes das cidades de São Miguel do Oeste e Descanso",
+					"request": {
+						"method": "GET",
+						"header": []
+					},
+					"response": []
+				},
+				{
+					"name": "Residências das cidades de Maravilha, Descanso, Itapiranga e Guaraciaba que foram visitadas em 2024.",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": "{{api}}/api/visitas/residencias-visitadas-em-2024"
+					},
+					"response": []
+				},
+				{
+					"name": "Casos por faixa etária",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": "{{api}}/api/visitas/residencias-visitadas-em-2024"
+					},
+					"response": []
+				}
+			]
+		}
+	]
+}
