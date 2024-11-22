@@ -52,9 +52,9 @@ Desenvolvedores do Projeto:
   <tr>
     <td align="center">
       <a href="#">
-        <img src="https://avatars.githubusercontent.com/u/99025285?v=4" width="100px;" alt="Laura"/><br>
+        <img src="https://avatars.githubusercontent.com/u/78428392?v=4" width="100px;" alt="Leandro"/><br>
         <sub>
-          <b>Laura Zardo</b>
+          <b>Leandro Bertocchi</b>
         </sub>
       </a>
     </td>
